@@ -1,0 +1,11 @@
+{
+	"name": "argon2",
+	"authors": [
+		"Daniel Zuncke"
+	],
+	"copyright": "Copyright © 2024, Daniel Zuncke",
+	"description": "Interface to the Argon2 C reference implementation",
+	"license": "proprietary",
+	"targetPath": "bin",
+	"targetName": "argon2-d"
+}

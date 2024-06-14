@@ -1,0 +1,22 @@
+{
+	"name": "examples",
+	"authors": [
+		"Daniel Zuncke"
+	],
+	"copyright": "Copyright © 2024, Daniel Zuncke",
+	"description": "Examples to use argon2 bindings.",
+	"license": "proprietary",
+	"targetType": "executable",
+	"targetPath": "bin",
+	"dependencies": {
+		"argon2": {
+			"path": "../"
+		}
+	},
+	"libs": [
+		"argon2"
+	],
+	"lflags": [
+		"-Llibs"
+	]
+}
